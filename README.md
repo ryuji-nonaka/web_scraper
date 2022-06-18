@@ -14,6 +14,11 @@ The main purpose of this project is to reduce the manual work to check our asset
   - improve my coding skill
   - learn latest scraping technologies
 
+## Code
+
+### screenshot_stock_price.py
+It outputs a screenshot of SBI stock price webpage with some arguments (your username and password).
+
 ## Thanks
 
 Thanks to "ボンネット開け男" for providing good example of code to creating automatic scraping script.
